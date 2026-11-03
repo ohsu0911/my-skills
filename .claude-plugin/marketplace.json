@@ -1,0 +1,13 @@
+{
+  "name": "my-skills",
+  "owner": { "name": "오수" },
+  "metadata": { "description": "오수 전용 스킬 모음" },
+  "plugins": [
+    {
+      "name": "unslop",
+      "source": "./plugins/unslop",
+      "description": "AI가 만든 티 나는 UI를 진단하고 디자이너처럼 다듬는 스킬 (원작: Damir Sokolovsky, CC BY 4.0)",
+      "version": "1.0.0"
+    }
+  ]
+}
